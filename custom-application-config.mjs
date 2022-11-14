@@ -5,14 +5,14 @@ import { PERMISSIONS, entryPointUriPath } from './src/constants';
  */
 const config = {
   name: 'Custom Applications',
-  entryPointUriPath:'/channels',
+  entryPointUriPath,
   cloudIdentifier: 'gcp-eu',
   env: {
     development: {
       initialProjectKey: 'global-new', 
     },
     production: {
-      applicationId: 'clageqaad01duuv01aid7c2ya',
+      applicationId: 'clah28vtp022nuv0159t7w73n',
       url: 'https://gloabal-new.vercel.app',
     },
   },
