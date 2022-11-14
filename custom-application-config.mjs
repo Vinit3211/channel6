@@ -13,13 +13,13 @@ const config = {
     },
     production: {
       applicationId: 'clageqaad01duuv01aid7c2ya',
-      url: 'https://mc.europe-west1.gcp.commercetools.com/gloabal-new//channels',
+      url: 'http://localhost:3001/gloabal-new/custom-applications/channels',
     },
   },
   oAuthScopes: {
     view: ['view_products'], 
     manage: ['manage_products'],
-  }, 
+  },
   icon: '${path:@commercetools-frontend/assets/application-icons/rocket.svg}',
   mainMenuLink: {
     defaultLabel: 'Template starter',
