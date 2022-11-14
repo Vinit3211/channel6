@@ -26,7 +26,7 @@ const config = {
     labelAllLocales: [],
     permissions: [PERMISSIONS.View],
   },
-  submenuLinks: [
+  submenuLinks: [ 
     {
       uriPath: 'channels',
       defaultLabel: 'Channels',
