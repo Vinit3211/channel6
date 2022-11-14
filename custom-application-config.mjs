@@ -9,7 +9,7 @@ const config = {
   cloudIdentifier: 'gcp-eu',
   env: {
     development: {
-      initialProjectKey: 'global-new',
+      initialProjectKey: 'global-new', 
     },
     production: {
       applicationId: 'clageqaad01duuv01aid7c2ya',
