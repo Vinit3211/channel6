@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: 'clageqaad01duuv01aid7c2ya',
-      url: 'http://localhost:3001/gloabal-new/custom-applications/channels',
+      url: 'https://gloabal-new.vercel.app',
     },
   },
   oAuthScopes: {
