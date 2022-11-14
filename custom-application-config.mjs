@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'global-new',
     },
     production: {
-      applicationId: 'cl9qo0xpl01gay2013cl2xwvw',
-      url: 'https://mc.europe-west1.gcp.commercetools.com/gloabal-new/channels',
+      applicationId: 'clageqaad01duuv01aid7c2ya',
+      url: 'channel-5uzj-c12h311ut-vinit3211.vercel.app',
     },
   },
   oAuthScopes: {
