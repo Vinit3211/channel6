@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: 'clah28vtp022nuv0159t7w73n',
-      url: 'https://gloabal-new.vercel.app',
+      url: 'https://mc.europe-west1.gcp.commercetools.com.vercel.app',
     },
   },
   oAuthScopes: {
