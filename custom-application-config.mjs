@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: 'clageqaad01duuv01aid7c2ya',
-      url: 'https://channel-5uzj-c12h311ut-vinit3211.vercel.app',
+      url: 'https://mc.europe-west1.gcp.commercetools.com/gloabal-new//channels',
     },
   },
   oAuthScopes: {
