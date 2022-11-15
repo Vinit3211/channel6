@@ -5,7 +5,7 @@ import { PERMISSIONS, entryPointUriPath } from './src/constants';
  */
 const config = {
   name: 'Custom Applications',
-  entryPointUriPath:'/global-new/channels',
+  entryPointUriPath,
   cloudIdentifier: 'gcp-eu',
   env: {
     development: {
@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: 'clah28vtp022nuv0159t7w73n',
-      url: 'https://Gloabal-new.vercel.app',
+      url: 'https://channels.firebase.app',
     },
   },
   oAuthScopes: {
