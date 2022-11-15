@@ -5,7 +5,7 @@ import { PERMISSIONS, entryPointUriPath } from './src/constants';
  */
 const config = {
   name: 'Custom Applications',
-  entryPointUriPath,
+  entryPointUriPath:'/global-new/channels',
   cloudIdentifier: 'gcp-eu',
   env: {
     development: {
