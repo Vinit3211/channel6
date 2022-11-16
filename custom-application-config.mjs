@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: 'clah28vtp022nuv0159t7w73n',
-      url: 'https://channels.vercel.app',
+      url: '',
     },
   },
   oAuthScopes: {
