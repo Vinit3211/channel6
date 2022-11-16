@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: 'clah28vtp022nuv0159t7w73n',
-      url: '', 
+      url: 'https://mc.europe-west1.gcp.commercetools.com/account/organizations/7ac994ab-4c27-47e7-96d1-f6a58aa9af5c/custom-applications/owned/clah28vtp022nuv0159t7w73n', 
     },
   },
   oAuthScopes: {
